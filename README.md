@@ -1,0 +1,2 @@
+# hawalat-android
+قارى حوالات
